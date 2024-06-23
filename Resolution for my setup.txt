@@ -1,4 +1,0 @@
-resolution:1920x1080
-taskbar:hidden
-
-index page is adjusted to the above setup.
